@@ -1,0 +1,13 @@
+*.exe
+*.dat*
+*.xml
+*.evalC
+build
+buildtest
+dist
+nbproject
+*~
+.dep*
+CMake*
+
+
